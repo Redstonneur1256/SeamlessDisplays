@@ -1,0 +1,13 @@
+{
+  "name": "seamless-displays",
+  "displayName": "Seamless displays",
+  "author": "Redstonneur1256",
+  "description": "Removes logic display border and link them together",
+  "repo": "Redstonneur1256/SeamlessDisplays",
+  "version": "@version@",
+  "build": "@build@",
+  "built": "@built@",
+  "minGameVersion": "142",
+  "main": "fr.redstonneur1256.sd.SeamlessDisplays",
+  "hidden": true
+}
