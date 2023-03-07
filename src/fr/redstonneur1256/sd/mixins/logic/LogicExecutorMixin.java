@@ -15,4 +15,5 @@ public class LogicExecutorMixin implements AdvancedExecutor {
     public Seq<DrawCommand> getDrawQueue() {
         return drawQueue;
     }
+
 }

@@ -174,8 +174,4 @@ public class LogicDisplayBuildMixin extends Building implements Display {
         return all;
     }
 
-    private int unpackSign(int value) {
-        return (value & 0b0111111111) * ((value & (0b1000000000)) != 0 ? -1 : 1);
-    }
-
 }
