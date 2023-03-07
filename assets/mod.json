@@ -8,6 +8,9 @@
   "build": "@build@",
   "built": "@built@",
   "minGameVersion": "142",
+  "dependencies": [
+    "!mod-library"
+  ],
   "main": "fr.redstonneur1256.sd.SeamlessDisplays",
   "hidden": true
 }
